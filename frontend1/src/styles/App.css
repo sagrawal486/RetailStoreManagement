@@ -1,0 +1,31 @@
+.App {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .home {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .file-upload, .search-bar, .pricing-table {
+    margin-bottom: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+  }
+  
+  input[type="text"], input[type="number"] {
+    width: 100%;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
